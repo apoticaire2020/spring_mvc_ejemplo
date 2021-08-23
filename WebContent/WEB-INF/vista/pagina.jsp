@@ -8,6 +8,9 @@
 </head>
 <body>
    <h3> salam alikom</h3>
-   <a href="secondario/mustraFormulario">mustra formulario</a>
+   <a href="secondario/mustraFormulario">ir al formulario</a>
+   
+   <br><br>
+    <a href="alumno/mustraFormulario">ir al formulario de registro</a>
 </body>
 </html>
